@@ -43,7 +43,6 @@ public class CaesarCipher {
                             }
                         }
                     }
-
                 }
         }
         return Text.toString();
